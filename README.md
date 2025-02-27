@@ -1,5 +1,5 @@
 ### Hello, World!
-👋🌎 Olá, mundo! Me chamo Felipe Verderamis.
+Olá, mundo! 👋🌎 Me chamo Felipe Verderamis.
 
 <br>
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+#
 
 ### ✏️ Sobre mim  
 
