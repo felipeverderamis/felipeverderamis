@@ -1,5 +1,5 @@
 ### Hello, World!
-Olá, mundo! 👋🌎 Me chamo Felipe Verderamis.
+Olá, mundo! 👋🌎 Me chamo Felipe.
 
 <br>
 
